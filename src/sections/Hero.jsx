@@ -1,5 +1,5 @@
 import HeroText from "../components/HeroText";
-import ParallaxBackground from "../components/ParallaxBackground";
+import ParallaxBackground from "../components/parallaxBackground";
 import { SplineAstronaut } from "../components/SplineAstronaut";
 import { useMediaQuery } from "react-responsive";
 
